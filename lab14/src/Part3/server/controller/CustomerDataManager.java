@@ -10,7 +10,7 @@ import Part3.model.Product;
  * Lab Week 14 Part 3 Exercise 3
  * This controller class manages customers' data.
  * 
- * @author Youssf Lee
+ * @author Youssof Lee
  */
 
 public class CustomerDataManager {
